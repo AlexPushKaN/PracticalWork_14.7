@@ -1,0 +1,6 @@
+framework module Pods_PracticalWork_14_7 {
+  umbrella header "Pods-PracticalWork_14.7-umbrella.h"
+
+  export *
+  module * { export * }
+}
