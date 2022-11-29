@@ -93,5 +93,4 @@ extension WeatherViewController: CLLocationManagerDelegate {
             getWeatherInfo(latitude:lat, longitude:lon)
         }
     }
-    //Для коммита
 }
